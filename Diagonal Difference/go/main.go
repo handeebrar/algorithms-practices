@@ -28,7 +28,7 @@ func diagonalDifference(arr [][]int32) int32 {
         leftDiagonalSum += arr[left][left]
     }
     
-    var rightY = matrixLength - 1 ;
+    var rightY = matrixLength - 1
     for rightX := 0 ; rightX < matrixLength; rightX++ {
         rightDiagonalSum += arr[rightX][rightY]
         rightY--

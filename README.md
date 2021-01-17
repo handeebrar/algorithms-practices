@@ -29,7 +29,7 @@
       <a href="#algorithms">Algorithms</a>
       <ul>
         <li><a href="#diagonal-difference">Diagonal Difference</a></li>
-        <li><a href="#diagonal-difference">Plus Minus</a></li>
+        <li><a href="#plus-minus">Plus Minus</a></li>
       </ul>
     </li>
   </ol>

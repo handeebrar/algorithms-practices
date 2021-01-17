@@ -123,6 +123,8 @@ Difference: |4 - 19| = 15
 
 Note: |x| is the absolute value of x
 
+<hr>
+
 <!-- Plus Minus -->
 ### Plus Minus
 
@@ -180,6 +182,7 @@ You must print the following 3 lines:
 There are 3 positive numbers, 2 negative numbers, and 1 zero in the array.
 The proportions of occurrence are positive: 3/6 = 0.500000, negative: 2/6 = 0.333333 and zeros: 1/6 = 0.166667.
 
+<hr>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/handeebrar/algorithms-practices.svg?style=for-the-badge

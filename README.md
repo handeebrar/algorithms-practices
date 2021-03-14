@@ -30,6 +30,7 @@
       <ul>
         <li><a href="/Diagonal Difference">Diagonal Difference</a></li>
         <li><a href="/Plus Minus">Plus Minus</a></li>
+        <li><a href="/Two Strings">Two Strings</a></li>
       </ul>
     </li>
   </ol>
@@ -52,6 +53,8 @@ It is a repository, where we produce solutions in different programming language
 ## Algorithms
 * <a href="/Diagonal Difference">Diagonal Difference</a>
 * <a href="/Plus Minus">Plus Minus</a>
+* <a href="/Two Strings">Two Strings</a>
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/handeebrar/algorithms-practices.svg?style=for-the-badge

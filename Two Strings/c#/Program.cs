@@ -6,13 +6,12 @@ class Solution
 {
     static string twoStrings(string s1, string s2)
     {
-        /* 97 == 'a' | 122 == 'z' */
-        for (int leterAscii = 97; leterAscii <= 122; leterAscii++)
-            if (s1.Contains((char)leterAscii) && s2.Contains((char)leterAscii))
+        for (var letterAscii = 97; letterAscii <= 122; letterAscii++)
+            if (s1.Contains((char)letterAscii) && s2.Contains((char)letterAscii))
                 return "YES";
         return "NO";
 
-        /* you can solve with this solution
+        /* you can also solve with this solution
             var alphabe = new char[] { 'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm',
             'n', 'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z' };
             foreach (var letter in alphabe)

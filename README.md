@@ -52,7 +52,6 @@ It is a repository, where we produce solutions in different programming language
 ## Algorithms
 * <a href="/Diagonal Difference">Diagonal Difference</a>
 * <a href="/Plus Minus">Plus Minus</a>
-<hr>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/handeebrar/algorithms-practices.svg?style=for-the-badge
